@@ -1,9 +1,6 @@
 ---
 
-### 🔹 Java Version – `Weather App - Java/README.md`
-
-```markdown
-# 🌤️ Weather App – Java Version
+### 🔹 Java Version – 🌤️`Weather App`
 
 A Java console app that fetches real-time weather data using OpenWeatherMap API and parses JSON using `org.json`.
 
@@ -24,4 +21,7 @@ A Java console app that fetches real-time weather data using OpenWeatherMap API 
 - Add `json-20230618.jar` to the classpath
 - Replace your API key in the code
 - Run `WeatherApp.java`
+
+```
+
 ```
